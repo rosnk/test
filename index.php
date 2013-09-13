@@ -1,3 +1,4 @@
+
 <?php
     require_once 'includes/database.php';
     require_once 'includes/article.php';
@@ -12,7 +13,7 @@
 //    print_r($articles);
 //    echo '</pre>';
     
-    
+#this is comment #    
 ?>
 
 <html>
